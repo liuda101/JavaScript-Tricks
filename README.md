@@ -1,4 +1,4 @@
 JavaScript-Tricks
 =================
 
-Some
+Some tricks in JavaScript. Just a personal note.
