@@ -1,3 +1,10 @@
+/*
+
+使用了function属性
+
+*/
+
+
 // 如果传入prefix，则需要是一个string
 function uniqueID(prefix){
 	var id = ++ uniqueID._id + '';
